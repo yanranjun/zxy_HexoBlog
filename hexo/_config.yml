@@ -80,5 +80,4 @@ deploy:
   type: git
   repo: git@github.com:youKnowWhoIAmZXY/zxy_HexoBlog.git
   # repo: https://github.com/youKnowWhoIAmZXY/zxy_HexoBlog.git
-  repo: git@
-  branch: master
+  branch: myhexo
