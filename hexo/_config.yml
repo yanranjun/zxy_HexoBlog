@@ -78,6 +78,6 @@ theme: hexo-theme-next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:youKnowWhoIAmZXY/zxy_HexoBlog.git
-  # repo: https://github.com/youKnowWhoIAmZXY/zxy_HexoBlog.git
-  branch: myhexo
+  repo: git@github.com:youKnowWhoIAmZXY/yanran.github.io.git
+  # repo: https://github.com/youKnowWhoIAmZXY/yanran.github.io.git
+  branch: master
